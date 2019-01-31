@@ -1,7 +1,7 @@
 ### Pure Functions, Testing and Other Untold Stories
 ###### 02/02/2019 |LARAVEL ABUJA MEETUP |BY SHUAIB AFEGBUA
 
----?color=#E58537
+---?color=#000000
 @title[Add A Little Imagination]
 
 @snap[north-west]
@@ -17,7 +17,7 @@
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[span-45]
 ```php
 function iAmAFunction(){
  return "This is a function"
