@@ -1,4 +1,4 @@
-# Pure Functions, Testing and Other Untold Stories
+### Pure Functions, Testing and Other Untold Stories
 
 ---
 
