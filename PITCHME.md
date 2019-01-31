@@ -1,5 +1,31 @@
 ### Pure Functions, Testing and Other Untold Stories
 ###### 02/02/2019 |LARAVEL ABUJA MEETUP |BY SHUAIB AFEGBUA
+
+---?color=#E58537
+@title[Add A Little Imagination]
+
+@snap[north-west]
+#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+@snapend
+
+@snap[west span-55]
+@ul[spaced text-white]
+- What is a function
+- What makes a pure function
+- Why you should care
+
+@ulend
+@snapend
+
+@snap[east span-45]
+```php
+function iAmAFunction(){
+ return "This is a function"
+}
+
+```
+@snapend
+
 ---
 
 ## Add Some Slide Candy 
