@@ -1,4 +1,4 @@
-# Let's Get Started
+# Pure Functions, Testing and Other Untold Stories
 
 ---
 
